@@ -9,7 +9,7 @@ public class Main {
         User user_0 = new User("Otto", "Rain");
         User user_1 = new User("Anne", "You");
         User user_2 = new User("Link", "Florida");
-        User user_3 = new User("Four", "Alaska");
+        User user_3 = new User("Extra.Four", "Alaska");
 
         List<User> users = new ArrayList<>();
         users.add(user_0);

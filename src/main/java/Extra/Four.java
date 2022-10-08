@@ -1,10 +1,12 @@
+package Extra;
+
 import java.util.Scanner;
 
 public class Four {
 
     public static void main(String[] args) {
         int num0 = 9;
-//       One
+//       Extra.One
 //        for (int i = num0; i >= 0; i--) {
 //            for (int j = 0; j <= i; j++) {
 //                System.out.print(j);
@@ -35,7 +37,7 @@ public class Four {
             System.out.print(str0);
         }
         System.out.println();
-//      Four methods
+//      Extra.Four methods
         int a = 9, b = 3;
         System.out.printf("addition %d + %d = " + addition(a, b) + "\n", a, b);
         System.out.printf("subtraction %d + %d = " + subtraction(a, b) + "\n", a, b);
