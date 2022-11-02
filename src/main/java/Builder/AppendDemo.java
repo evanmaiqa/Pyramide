@@ -1,2 +1,4 @@
-package Builder;public class AppendDemo {
+package Builder;
+
+public class AppendDemo {
 }

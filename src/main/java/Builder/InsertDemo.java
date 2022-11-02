@@ -1,2 +1,4 @@
-package Builder;public class InsertDemo {
+package Builder;
+
+public class InsertDemo {
 }

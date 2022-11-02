@@ -1,2 +1,4 @@
-package Builder;public class EqualsDemo {
+package Builder;
+
+public class EqualsDemo {
 }

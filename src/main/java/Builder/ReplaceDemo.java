@@ -1,2 +1,4 @@
-package Builder;public class ReplaceDemo {
+package Builder;
+
+public class ReplaceDemo {
 }

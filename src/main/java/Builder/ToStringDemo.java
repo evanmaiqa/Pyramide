@@ -1,2 +1,4 @@
-package Builder;public class ToStringDemo {
+package Builder;
+
+public class ToStringDemo {
 }

@@ -20,7 +20,22 @@ public class Main {
         for (User u : users) {
             u.sayHello();
         }
+        student.sayHello();
 
+        student.status = student.status.probation;
+        System.out.println(student.status);
+
+        switch (student.status) {
+            case probation:
+                System.out.println("Ouch");
+                break;
+            case active:
+                System.out.println("Great!");
+                break;
+            case inactive:
+                System.out.println("come back!");
+                break;
+        }
     }
 
 }

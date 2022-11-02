@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcb3a05d-d312-449a-bb24-d9ab2bf25dd5" name="Changes" comment="upd" />
+    <list default="true" id="dcb3a05d-d312-449a-bb24-d9ab2bf25dd5" name="Changes" comment="upd">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Caleb_2/Talk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/AppendDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/AppendDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/DeleteCharAtDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/DeleteCharAtDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/DeleteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/DeleteDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/EqualsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/EqualsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/InsertDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/InsertDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/ReplaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/ReplaceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/ReverseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/ReverseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/ToStringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Builder/ToStringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Caleb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Caleb/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Caleb_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Caleb_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Caleb_2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Caleb_2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Caleb_2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Caleb_2/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Extra/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Extra/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Caleb/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Caleb/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Caleb_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Caleb_2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Caleb_2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Caleb_2/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Caleb_2/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Caleb_2/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Extra/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Extra/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Extra/Extra_extra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Extra/Extra_extra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Extra/Switch.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +38,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,16 +63,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Random">
-    <configuration name="Extra.Extra_extra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Extra.Extra_extra" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Extra.Builder" />
       <module name="Pyramide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Extra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Extra.Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Extra.Four" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Pyramide" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,22 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KataTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Pyramide" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="KataTests" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Random" />
-        <item itemvalue="Application.Extra.Four" />
-        <item itemvalue="Application.Extra.Extra_extra" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.KataTests" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Builder" />
+        <item itemvalue="Application.Random" />
       </list>
     </recent_temporary>
   </component>
