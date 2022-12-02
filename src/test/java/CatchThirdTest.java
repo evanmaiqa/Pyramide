@@ -17,9 +17,11 @@ public class CatchThirdTest extends BaseTest {
         String currentWindow = getDriver().getWindowHandle();
         List<WebElement> listOfElements = getDriver().findElements(By.className("s-item__image-img"));
         WebElement element = listOfElements.get(10);
+
         Actions action = new Actions(getDriver());
         action.moveToElement(element).perform();
         element.click();
+
         for (String winHandle : getDriver().getWindowHandles()) {
             getDriver().switchTo().window(winHandle);
         }
